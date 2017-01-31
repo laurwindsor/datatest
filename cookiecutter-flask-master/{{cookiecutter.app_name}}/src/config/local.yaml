@@ -1,0 +1,5 @@
+extends: base.yaml
+
+# eventhub:
+#   bootstrap_servers:
+#     - kafka:9092

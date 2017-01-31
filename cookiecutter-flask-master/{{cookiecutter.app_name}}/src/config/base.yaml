@@ -1,0 +1,9 @@
+statsd:
+  host: localhost
+  port: 8125
+
+sentry:
+  dsn: https://d34fea2fa88e4926a354c9bd9f23e49b:7d7145ec761b4da79e00c2ef027d9dbe@sentry.io/105408
+
+{{cookiecutter.app_name}}:
+  foo: bar

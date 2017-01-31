@@ -1,0 +1,3 @@
+QueryName,OutputHeaders
+sessionByEntryTime,"['sessionsid', 'entrydate']"
+completeByCompleteTime,"['sessionid', 'completetime']"

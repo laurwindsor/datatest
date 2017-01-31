@@ -1,0 +1,7 @@
+extends: base.yaml
+
+# eventhub:
+#   bootstrap_servers:
+#     - event-hub-1.luc1d.com:9092
+#     - event-hub-2.luc1d.com:9092
+#     - event-hub-3.luc1d.com:9092

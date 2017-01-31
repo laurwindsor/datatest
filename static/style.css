@@ -1,0 +1,42 @@
+body {
+	background-color: white;
+	font-family: 'Open Sans', sans-serif;
+	color: black;
+}
+
+title {
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 36px;
+}
+
+h1 {
+	text-align: left;
+	font-size: 36px;
+}
+
+p {
+	font-size: 20px;
+}
+
+.dropdown {
+	position: absolute;
+	margin-left: 150px;
+	margin-top: 50px;
+}
+
+.plain-list {
+    list-style: none;
+}
+
+#Logo {
+	width: 150px;
+	float: left;
+	margin-left: 0px;
+	margin-top: 25px;
+}
+
+a:hover {
+	color: black;
+	background-color: grey;
+}
